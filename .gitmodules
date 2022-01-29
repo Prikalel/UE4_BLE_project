@@ -1,0 +1,3 @@
+[submodule "Plugins/BluetoothSupport"]
+	path = Plugins/BluetoothSupport
+	url = git@github.com:Prikalel/UE-Bluetooth-Support.git
